@@ -2,7 +2,7 @@
 
 ### Configuração do NFS no Servidor
 
-Para começar, utilizamos o comando "sudo su" para elevar nossos privilégios administrativos.
+Para começar, utilizamos o comando "sudo su" para elevar  privilégios de adm.
 
 #### Instalação e Configuração do NFS
 
